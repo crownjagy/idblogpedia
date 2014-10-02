@@ -13,10 +13,11 @@ In header file or top of view file, include following:
 			plugins: 'advlist autolink link image lists charmap print preview'
 			
 		});
-	</script>
+</script>
 	
 	
-	In view file:
+
+In view file:
 	
 <?php echo form_textarea('body',set_value('body',$page->body),'class="tinymce"'); ?>
 

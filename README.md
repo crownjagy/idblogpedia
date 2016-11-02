@@ -31,4 +31,4 @@ Set:
 chmod -R 777 tinymce/.
 
 Butuh bantuan?
-Saya siap bantu: http://www.detikblogger.com/onebetqq-com-agen-bandar-poker/
+Saya siap bantu segera setelah implementasi berhasil.
